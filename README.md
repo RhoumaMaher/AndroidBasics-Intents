@@ -30,7 +30,7 @@ Welcome to the repository accompanying my latest Medium article, **"Mastering In
 
 Gain in-depth knowledge about intents and their practical applications in Android development by reading the full article on Medium:
 
-[Mastering Intents in Android](https://medium.com/@maheraizen1/mastering-intents-in-android-a-comprehensive-guide-2244b4325532)
+[Mastering Intents in Android](https://medium.com/@RhoumaMaher/mastering-intents-in-android-a-comprehensive-guide-2244b4325532)
 
 ## Code Examples
 
@@ -50,7 +50,7 @@ Feel free to explore and adapt the code for your projects!
 
 If you have any feedback or questions about the article or the code, feel free to reach out:
 
-* **Medium:** [My Medium Profile](https://medium.com/@maheraizen1)
+* **Medium:** [My Medium Profile](https://medium.com/@RhoumaMaher)
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/maher-rhouma-581919199/)
 
